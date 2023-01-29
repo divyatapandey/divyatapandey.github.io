@@ -241,6 +241,9 @@ margin: 0 auto;
   aside{
     visibility: hidden;
   }
+   #home{
+	   width:100%;
+	}
 }
 
 h1{
